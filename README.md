@@ -64,3 +64,13 @@ Excitel faces variability in lead acceptance rates and installation times across
 
 - **Code**: Python scripts used for data analysis, visualization, and model building.
 - **Executive Summary**: A concise PDF summary of the findings and recommendations.
+
+## Team Members
+
+- [Aarushi Gosain](mailto:aarushi.gosain_pgp2025_25135@mastersunion.org)
+- [Apoorv Kathuria](mailto:apoorv.kathuria_pgp2025_25183@mastersunion.org)
+- [Dibyansu Mohanty](mailto:dibyansu.mohanty_pgp2025_25138@mastersunion.org)
+- [Hari Shankar](mailto:hari.shankar_pgp2025_25220@mastersunion.org)
+- [Sneha Roy](mailto:sneha.roy_PGP2025_25066@mastersunion.org)
+- [Prakhar Gupta](mailto:prakhar.gupta_pgp2025_25187@mastersunion.org)
+
