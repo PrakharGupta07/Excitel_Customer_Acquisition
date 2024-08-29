@@ -1,6 +1,6 @@
-# 📊 Excitel Customer Acquisition Analysis
+<img align="centre" alt="Coding" width="200" src="https://content3.jdmagicbox.com/comp/jaipur/l4/0141px141.x141.191018061003.q3l4/catalogue/excitel-broadband-tonk-pathak-jaipur-internet-service-providers-pai0bjj8h5.jpg">
 
-![Excitel Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Excitel_Logo_2019.svg/1200px-Excitel_Logo_2019.svg.png)
+# 📊 Excitel Customer Acquisition Analysis
 
 This repository contains a comprehensive analysis of Excitel's customer acquisition funnel, focusing on lead acceptance and installation processes across three different cities. The analysis identifies key bottlenecks, variability in processes, and provides actionable recommendations to optimize operations.
 
